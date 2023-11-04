@@ -1,22 +1,20 @@
 class Solution:
     def arithmeticTriplets(self, nums: List[int], diff: int) -> int:
+        nums.sort()  # Sort the input list in ascending order.
         counter = 0
-        for i in range(len(nums)):
+        n = len(nums)
+        for i in range(n - 2):
             x = nums[i]
-            for j in range(i + 1,len(nums)):
-                y = nums[j]
-                if y - x == diff:
-                    for k in range(j + 1,len(nums)):
-                        z = nums[k]
-                        if z - y == diff:
-                            counter +=1
-        return counter                   
-                            
-                             
+            j = i + 1
+            k = j + 1
+            while k < n:
+                if nums[j] - x == diff and nums[k] - nums[j] == diff:
+                    counter +=1
+                    j +=1
+                    k +=1
+                elif nums[k] - nums[j] > diff and j < k:
+                    j +=1
+                else:
+                    k +=1
                 
-                
-                
-                
-                
-        
-        
+        return counter
