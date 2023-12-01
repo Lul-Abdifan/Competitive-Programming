@@ -5,7 +5,7 @@
 
 <pre><strong>Input:</strong> arr = [1,2,2,1,1,3]
 <strong>Output:</strong> true
-<strong>Explanation:</strong>&nbsp;The value 1 has 3 occurrences, 2 has 2 and 3 has 1. No two values have the same number of occurrences.</pre>
+<strong>Explanation:</strong>&nbsp; The value 1 has 3 occurrences, 2 has 2, and 3 has 1. No two values have the same number of occurrences.</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
