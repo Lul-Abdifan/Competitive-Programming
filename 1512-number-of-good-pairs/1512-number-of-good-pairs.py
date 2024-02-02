@@ -1,13 +1,9 @@
 class Solution:
-    def numIdenticalPairs(self, nums: list[int]) -> int:
-        hashtable = {}
-        counter = 0
+    def numIdenticalPairs(self, nums: List[int]) -> int:
+        counter = Counter(nums)
+        no_pairs = 0
         
-        for num in nums:
-            if num not in hashtable:
-                hashtable[num] = 1
-            else:
-                counter += hashtable[num]
-                hashtable[num] += 1
-
-        return counter
+        for cnt in counter:
+            if counter[cnt] > 1:
+                no_pairs += (counter[cnt] * (counter[cnt] - 1))//2
+        return no_pairs     
