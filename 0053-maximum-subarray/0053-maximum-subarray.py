@@ -1,19 +1,16 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        current_sum = 0
-        maximum_sum = -math.inf
+        gen_max_sum = -math.inf
+        
+        crt_sum = 0
         
         for i in range(len(nums)):
-            current_sum +=nums[i]
+            crt_sum +=nums[i]
             
-            if current_sum > maximum_sum:
-               maximum_sum = current_sum
-        
-            if current_sum < 0:
-               current_sum = 0
-        return maximum_sum    
+            gen_max_sum = max(gen_max_sum,crt_sum)
             
-            
-            
-            
+            if crt_sum < 0:
+                crt_sum = 0
+                
+        return gen_max_sum        
         
