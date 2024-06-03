@@ -9,4 +9,13 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 # Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0046-permutations) |
+# Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+# String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
