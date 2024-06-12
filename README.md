@@ -39,3 +39,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1916-find-center-of-star-graph) |
