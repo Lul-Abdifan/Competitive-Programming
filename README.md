@@ -45,4 +45,5 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1039-find-the-town-judge) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1916-find-center-of-star-graph](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1916-find-center-of-star-graph) |
