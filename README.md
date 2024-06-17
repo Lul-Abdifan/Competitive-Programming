@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -41,9 +42,18 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
 # Graph
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1916-find-center-of-star-graph](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1916-find-center-of-star-graph) |
+# Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
