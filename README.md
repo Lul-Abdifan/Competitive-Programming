@@ -29,20 +29,24 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 # Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 # Graph
 |  |
 | ------- |
@@ -54,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 # Breadth-First Search
 |  |
@@ -64,3 +69,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
+# Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
