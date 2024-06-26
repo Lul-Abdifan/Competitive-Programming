@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
+| [1005-univalued-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
+| [1005-univalued-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 # Graph
 |  |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0463-island-perimeter) |
+| [1005-univalued-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 # Breadth-First Search
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0463-island-perimeter) |
+| [1005-univalued-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 # Union Find
 |  |
