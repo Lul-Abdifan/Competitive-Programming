@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 # Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1916-find-center-of-star-graph](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1916-find-center-of-star-graph) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0463-island-perimeter) |
+| [0871-keys-and-rooms](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0112-path-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0463-island-perimeter) |
+| [0871-keys-and-rooms](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 # Union Find
