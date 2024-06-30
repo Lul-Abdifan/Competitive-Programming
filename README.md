@@ -95,3 +95,22 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0200-number-of-islands](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0463-island-perimeter) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
+<!---LeetCode Topics End-->
