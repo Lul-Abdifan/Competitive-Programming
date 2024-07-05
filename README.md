@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Array
 |  |
 | ------- |
+| [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Breadth-First Search
 |  |
 | ------- |
+| [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Matrix
 |  |
 | ------- |
+| [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Depth-First Search
 |  |
 | ------- |
+| [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
