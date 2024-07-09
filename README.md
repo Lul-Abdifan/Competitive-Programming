@@ -132,13 +132,20 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## String
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
