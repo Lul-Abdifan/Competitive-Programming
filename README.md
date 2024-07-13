@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
+| [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Dynamic Programming
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0207-course-schedule](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
+| [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1275-validate-binary-tree-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1275-validate-binary-tree-nodes) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Hash Table
 |  |
 | ------- |
+| [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Tree
 |  |
