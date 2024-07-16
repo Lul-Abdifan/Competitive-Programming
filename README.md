@@ -203,4 +203,9 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
+## Math
+|  |
+| ------- |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
