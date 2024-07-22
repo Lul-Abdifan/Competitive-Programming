@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0330-patching-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0330-patching-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0330-patching-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
