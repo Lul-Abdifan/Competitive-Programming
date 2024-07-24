@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1275-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0801-is-graph-bipartite](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1275-validate-binary-tree-nodes) |
 ## String
 |  |
