@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Hash Table
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Tree
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 ## Heap (Priority Queue)
 |  |
@@ -221,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Quickselect
 |  |
@@ -240,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0055-jump-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0330-patching-array) |
+| [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -268,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
