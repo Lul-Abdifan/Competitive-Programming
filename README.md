@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0945-snakes-and-ladders](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
 |  |
