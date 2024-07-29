@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
+| [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
+| [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
+| [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Tree
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
+| [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Union Find
 |  |
