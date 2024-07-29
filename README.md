@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
+| [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Tree
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
+| [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Union Find
 |  |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Quickselect
 |  |
@@ -254,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0134-gas-station](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0330-patching-array) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -287,4 +292,5 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
