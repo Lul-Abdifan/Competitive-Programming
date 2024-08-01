@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0801-is-graph-bipartite](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
