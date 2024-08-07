@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
+| [0881-loud-and-rich](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [0945-snakes-and-ladders](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0801-is-graph-bipartite](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1275-validate-binary-tree-nodes) |
 ## Topological Sort
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0207-course-schedule](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0881-loud-and-rich) |
 ## Divide and Conquer
 |  |
 | ------- |
