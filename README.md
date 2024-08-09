@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0134-gas-station](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0330-patching-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0330-patching-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0055-jump-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
@@ -316,4 +318,8 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
