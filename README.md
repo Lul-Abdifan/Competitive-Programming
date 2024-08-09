@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0198-house-robber](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
+| [1236-n-th-tribonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
+| [1236-n-th-tribonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -313,4 +315,5 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
