@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0881-loud-and-rich](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0881-loud-and-rich) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0945-snakes-and-ladders](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Quickselect
 |  |
@@ -277,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0330-patching-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0330-patching-array) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
