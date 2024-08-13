@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
@@ -333,4 +335,8 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
