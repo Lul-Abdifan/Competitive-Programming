@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0055-jump-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0134-gas-station) |
+| [0174-dungeon-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0055-jump-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0070-climbing-stairs) |
+| [0174-dungeon-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0322-coin-change) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
