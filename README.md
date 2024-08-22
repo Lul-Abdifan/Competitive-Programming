@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [1013-fibonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1250-longest-common-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
 ## Union Find
 |  |
 | ------- |
