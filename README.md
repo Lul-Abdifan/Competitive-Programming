@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0881-loud-and-rich](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0881-loud-and-rich) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0416-partition-equal-subset-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
@@ -351,4 +353,12 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
