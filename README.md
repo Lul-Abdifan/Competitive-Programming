@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0518-coin-change-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0688-knight-probability-in-chessboard](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0688-knight-probability-in-chessboard) |
 | [1013-fibonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
