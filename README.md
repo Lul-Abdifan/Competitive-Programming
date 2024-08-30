@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0070-climbing-stairs) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
