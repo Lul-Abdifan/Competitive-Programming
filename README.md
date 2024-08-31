@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
 ## Tree
 |  |
 | ------- |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Quickselect
 |  |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
