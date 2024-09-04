@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0063-unique-paths-ii) |
 | [0134-gas-station](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0134-gas-station) |
 | [0174-dungeon-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0198-house-robber) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0005-longest-palindromic-substring](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0115-distinct-subsequences) |
 | [0174-dungeon-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0174-dungeon-game) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
