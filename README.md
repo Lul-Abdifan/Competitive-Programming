@@ -383,4 +383,8 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
