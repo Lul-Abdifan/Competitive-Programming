@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0801-is-graph-bipartite](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [1275-validate-binary-tree-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1275-validate-binary-tree-nodes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
@@ -257,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0881-loud-and-rich](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1275-validate-binary-tree-nodes) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
