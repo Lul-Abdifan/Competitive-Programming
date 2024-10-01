@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [1236-n-th-tribonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2645-pass-the-pillow](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2645-pass-the-pillow) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Shortest Path
 |  |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2645-pass-the-pillow](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
 |  |
 | ------- |
