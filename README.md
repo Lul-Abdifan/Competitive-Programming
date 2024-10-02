@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0210-course-schedule-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0529-minesweeper) |
+| [0547-number-of-provinces](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [1275-validate-binary-tree-nodes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1275-validate-binary-tree-nodes) |
@@ -258,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0207-course-schedule](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
