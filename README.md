@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0055-jump-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0063-unique-paths-ii) |
 | [0134-gas-station](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0134-gas-station) |
+| [0137-single-number-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0137-single-number-ii) |
 | [0174-dungeon-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0260-single-number-iii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
