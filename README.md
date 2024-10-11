@@ -286,12 +286,14 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
@@ -325,10 +327,12 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Greedy
 |  |
@@ -365,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
+| [0148-sort-list](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Design
