@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0318-maximum-product-of-word-lengths](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0330-patching-array) |
+| [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
@@ -285,12 +287,14 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -303,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0023-merge-k-sorted-lists](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
@@ -315,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -373,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 ## Memoization
@@ -416,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
