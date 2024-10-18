@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1117-as-far-from-land-as-possible](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1876-map-of-highest-peak](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
 | [0833-bus-routes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
 ## Tree
 |  |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0778-reorganize-string) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
