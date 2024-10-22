@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0260-single-number-iii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0330-patching-array) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0023-merge-k-sorted-lists](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Greedy
 |  |
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Recursion
 |  |
 | ------- |
@@ -413,10 +417,12 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Simulation
 |  |
@@ -451,4 +457,8 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0204-count-primes) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
