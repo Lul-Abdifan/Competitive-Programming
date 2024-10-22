@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0137-single-number-ii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0137-single-number-ii) |
 | [0174-dungeon-game](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0062-unique-paths](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
@@ -441,4 +443,12 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0948-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
