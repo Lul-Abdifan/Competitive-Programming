@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Dynamic Programming
 |  |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Sorting
 |  |
 | ------- |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [0148-sort-list](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Greedy
 |  |
 | ------- |
@@ -406,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Recursion
 |  |
 | ------- |
@@ -419,11 +423,13 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Simulation
 |  |
 | ------- |
@@ -461,4 +467,5 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
