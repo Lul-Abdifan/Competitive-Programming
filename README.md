@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0115-distinct-subsequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0753-open-the-lock](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0753-open-the-lock) |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0295-find-median-from-data-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
@@ -468,4 +471,8 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
