@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 | [1018-largest-perimeter-triangle](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2645-pass-the-pillow](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2645-pass-the-pillow) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview - Created using [Le
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Lul-Abdifan/Competitive-Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Ordered Set
 |  |
 | ------- |
